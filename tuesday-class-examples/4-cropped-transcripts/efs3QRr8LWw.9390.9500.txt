@@ -1,0 +1,53 @@
+for whatever judgment we have a lot of
+people might do it you want it to be
+able to connect to Facebook's content
+servers you want to be able to message a
+friend you want to be able to download a
+photograph or whatever but you don't
+want it to be able to talk to an ad
+server you don't want it to talk to an
+analytics server that it's monitoring
+your behavior right you don't want to
+talk to all these third-party things
+because Facebook crams their garbage and
+almost every app that you download and
+you don't even know what's happening
+because you can't see it right and this
+is the problem with the data collection
+used today is there is an industry that
+is built on keeping this invisible and
+what we need to do is we need to make
+the activities of our devices whether
+it's a phone whether it's computer or
+whatever more visible and understandable
+to the average person and then give them
+control over it so like if you could see
+your phone right now and at the very
+center of is a little green icon that's
+your you know handset or it's a picture
+your face whatever and then you see all
+these little spokes coming off of it
+that's every app that your phone is
+talking to right now or every app that
+is active on your phone right now and
+all the hosts that it's connecting to
+and you can see right now what's every
+three seconds your phone is checking
+into Facebook and you could just poke
+that app and then BOOM it's not talking
+to Facebook anymore Facebook's not
+allowed Facebook speaking privileges
+have been revoked right you would do
+that we would all do that if there was a
+button on your phone that said do what I
+want but not spy on me you would press
+that button right that button is not a
+does not exist right now and both Google
+and Apple
+unfortunately Apple's a lot better at
+this than Google but neither of them
+allow that button to exist in fact they
+actively interfere with it because they
+say it's a security risk and from a
+particular perspective
+they actually aren't wrong there but

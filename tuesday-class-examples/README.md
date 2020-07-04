@@ -24,3 +24,7 @@
 - `pip3 install youtube_transcript_api`
 - `python3 3-download-automatic-transcripts.py`
   - This will download only transcripts that don't already have a .json file
+
+## How to re-generate the 4-cropped-transcripts directory:
+
+- `python3 4-crop-transcripts.py`

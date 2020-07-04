@@ -1,0 +1,1090 @@
+and collect a paycheck unless I wanted
+to get ambitious and so I did some side
+gigs for these other guys and one of
+them was running what were called dirty
+word searches now dirty word searches
+are let me let me dial this back because
+I know we're sort of this is hard to
+track everything that the NSA does in
+large part is classified everything the
+CIA does in large part is classified
+if I made lunch plans with other people
+in my office it was classified that was
+the policy it's dumb they this over
+classification problem is one of the
+central flaws in government right now
+this is the reason we don't understand
+what they're doing this is why they can
+get on wrong way this is why they can
+get away with breaking the law or
+violating our rights for so long you
+know five years ten years fifteen fifty
+years before they see before we see what
+they were doing and it's because of this
+routine classification right but every
+system computer system has a limit on
+what level of classified information is
+supposed to be stored on it and we've
+got all these complicated systems for
+code words and caveats that establish a
+system of what's called compartment
+ation and this is the idea when you work
+at the CIA when you work at the NSA
+you're not supposed to know what's
+happening in the office next to you
+right because you don't have
+need-to-know right again that thing from
+the movies and the reason they have this
+is they don't want one person to be able
+to go and know everything Ryan tell
+everybody everything they don't want
+anybody to know too much particularly
+when they're doing lots of bad things
+because then there's the risk that you
+realize they're doing so many bad things
+that it's passed the point that we can
+justify and they might develop sort of
+an ideological objection to that well in
+the office of information sharing and
+actually in basically every part of my
+career before that I had access to
+everything I had what was called a
+special caveat on my accesses called
+protec which means privileged access
+what this means you're kind of super
+user you know most people have all of
+these controls and the kind of
+information that can access but I'm in
+charge of the system right people who
+need information they have to get it
+from somewhere they don't know even the
+director of the CIA right he says I need
+to know everything about this well he
+doesn't know where to get it he's just a
+manager somebody has to be able to
+actually cross these thresholds and get
+those things
+that guy was me and so dirty word
+searches were these kind of automated
+queries that I would set up to go across
+the whole network and look at all of the
+different levels of classification and
+compartment ation and exceptionally
+controlled information that's kind of
+you could think of it as above top
+secret in these special compartments
+right where you're not even supposed to
+know what these compartments are for you
+only know the code word unless you work
+in them unless you have access to them
+unless you read into them one day I get
+a hit on the dirty word search for a
+program that I'd never heard of called
+stellar wind it came back because the
+the little caveat for they're called
+handling caveats which is like you know
+you can think of like Burn After Reading
+or for your eyes only but this one's
+called
+STL W which means stellar wind unless
+you know what stellar wind is you don't
+know how to handle it all I knew is it
+wasn't supposed to be on my system you
+know this is a little bit unusual and it
+turned out this document was placed on
+the system because one of the employees
+who had worked on this program years
+before had come to Hawaii and this
+person was a lawyer I believe and they
+had worked in the inspector general's
+office and they had compiled a report
+part of the inspector general's report
+which is when the government is
+investigating itself into the operations
+and activities of this program well this
+was the domestic mass surveillance
+program that I talked about in the very
+beginning of our conversation that
+started under the Bush White House
+stellar wind was no longer supposed to
+be really an operation it had been
+unveiled in a big scandal in December
+2005 in the New York Times by journalist
+James risin and I I'm not gonna name him
+because I don't want to get it wrong
+another journalist you can look at the
+byline
+now if you want to see their involvement
+but and there's there's a lot of history
+here too but um what they had found was
+of course the Bush White House had
+constructed a warrantless wiretapping
+program if you remember the warrantless
+wiretapping scandal that was affecting
+everyone in the United States well
+the Bush White House was really put in a
+difficult position by this scandal they
+would have lost the election over this
+scandal because the New York Times
+actually had this story in October 2004
+which was the election year they were
+they were ready to go with it but at
+this specific request of the White House
+talking to the publisher of the New York
+Times Saul's burger and Bill Keller than
+the executive editor of the New York
+Times the New York Times said we won't
+run the story because the president just
+said if you run this story a month
+before the election that's very tight
+margin if you recall you'll have blood
+on your hands and it was so close to
+2001 the New York Times just went you
+know what fine Americans don't need to
+know that the kind of sushis big
+violator they don't need to know that
+the Fourth Amendment doesn't mean what
+they think it means if the government
+says it's alright and it's a secret you
+shouldn't know about it that's fine now
+December 2005 why did that change why
+did the New York Times has suddenly run
+this story well it's because James Rison
+the reporter who found this story had
+written a book and he was about to
+publish this book and the New York Times
+was about to be in a very uncomfortable
+position of having to explain why they
+didn't run this story and how they got
+scooped by their own journalists and so
+they finally did it but it was too late
+Bush had been reelected and now he was
+sweeping up the broken glass of our lost
+rights so Congress the bush White House
+was very effective and as I said before
+telling a very few select members of
+Congress that this program existed
+and they told them this program existed
+in ways that they wouldn't object to but
+made them culpable for hiding the
+existence from the program the existence
+of the program from the American people
+and this is why someone like Nancy
+Pelosi who you wouldn't exactly think
+would be buddy-buddy with George Bush
+was completely okay in defending this
+kind of program in fact and you know
+later she said oh well she had
+objections to the program that she wrote
+in a letter the White House but she
+never showed us the letter she went on
+well that was that was classified right
+and this is not to bag on her
+individually it's just she's a great
+example in here an unnamed example
+everyone knows of how this process works
+the White House will implicate certain
+very powerful members of Congress in
+their own criminal activity and so on
+when then when the White House gets in
+trouble for it the Congress has to run
+cover for the White House and so what
+happened was Congress passed an
+emergency law in 2007 called the protect
+America Act now which should have been
+our first indication this is a very bad
+thing because they never named a law
+something like that unless something
+terrible and what it did was it
+retroactively Lee immunized all of the
+phone companies in the United States
+that had been breaking the law millions
+of times a day by handing your records
+over to the government which they
+weren't allowed to do simply on the
+basis of a letter from the president
+saying please do this and these
+companies went look now that we've been
+uncovered now that we've been shown that
+we're breaking or now that these
+journalists have shown that we've broken
+the law and violated the rights of
+Americans and a staggering scale that
+could bankrupt our companies because we
+can be sued for this we will no longer
+cooperate with you unless you pass a law
+that says people can't sue us for having
+done this and so we get the Patek
+tamerica Act which stays you know as an
+emergency yeah this is all public
+history - yeah you can look this up on
+Wikipedia you know
+and so then they they go it's an
+emergency law we have to pass this now
+we have to keep this program active Bush
+is going to end the warrantless
+wiretapping program and continue it
+under this new authority where it's
+gonna have some special level of
+oversight and these kind of things
+eventually but for now we just have to
+make sure people are safe again they go
+to fear they say if we don't have this
+program terrorist attacks will continue
+you know people will die blood on your
+hands blood on your hands blundering
+hands think of the children protect
+America Act passes the companies get off
+the hook the Bush White House gets off
+the hook the Congress that was then
+sharing in criminal culpability for
+authorizing or rather letting these
+things go by without stopping them then
+passes in 2008 the Foreign Intelligence
+Surveillance Act Amendments of 2008 this
+is called the the FAA 5-minutes Act of
+2008 and rather than stopping all of the
+unlawful and sort of unconstitutional
+activities that the intelligence agency
+was doing they continued it in different
+ways simply by creating a few legal hubs
+for them to jump through now this is not
+to say you know these things aren't
+helpful at all it's not say they're not
+useful at all but it's important to
+understand when the government's
+response to any scandal then this
+applies to any country is not to make
+the activities of the person who is
+caught breaking the law comply with the
+law but instead make the activities of
+the person who is breaking the law legal
+right they make the law comply with what
+the agencies want to do rather than
+making the agencies comply with law
+that's a problem and that's what
+happened here
+now the intelligence community's powers
+actually grew in response to this
+scandal in 2008 because Congress was on
+the hook and they just wanted to move on
+and get this
+over with there were objections there
+were people who knew this was a bad idea
+but it didn't passed on now what the
+public took away from this because a
+part of these laws was a requirement
+that the Inspector General of all of
+these different intelligence community
+elements and the Director of National
+Intelligence submit a report saying this
+is what happened under that warrantless
+wiretapping program this is how it
+complied with the law or how it didn't
+comply with the law and basically look
+back at how this program was constituted
+what it did what the impacts and effects
+were and that was supposed to be sort of
+the Truth and Reconciliation Council
+right now why am I talking about all
+this ancient history well I'm sitting
+here in 2012 with a classified Inspector
+General's report draft report from the
+NSA that names names that says Dick
+Cheney it says David Addington this is
+Nancy Pelosi that says all these people
+who are involved in the program
+the tick-tock of how it happens it says
+the director of the NSA that guy who is
+evacuating the building at the beginning
+of our our our podcast here that guy was
+asked by the President of the United
+States if he would continue this program
+after being told by the White House and
+the Department of Justice that these
+programs were not lawful that they were
+not constitutional and the president
+said would you continue this program on
+my say-so alone knowing that it's risky
+knowing that it's unlawful and he said
+yes sir I will
+if you think that's what's necessary to
+keep the country safe and at that moment
+I realize these guys don't care about
+the law these guys don't care about the
+Constitution these guys don't care about
+the American people they care about the
+continuity of government they care about
+the state right and this is something
+that people have lost we hear this
+phrase over and over again national
+security national security national
+security and we're meant to interpret
+that
+to mean public safety but national
+security is a very different thing from
+public safety national security is a
+thing that in previous generations we
+referred to as state security national
+security was a kind of term that came
+out of the Bush administration to run
+cover for the fact that we were
+elevating a new kind of secret police
+across the country and what does it mean
+when again in a democracy in the United
+States the public is not partner to
+government the public does not hold the
+leash of government anymore but we are
+subject to government right we are
+subordinate to government and we're not
+even allowed to know that it happened no
+not in in the book I tell the fact that
+I had access to the unclassified version
+of this report back in Japan and what's
+interesting is the unclassified version
+of a report and we've all seen this
+today with things like the Muller report
+and all of the intelligence reporting
+that's happened in the last several
+years when the government provides a
+classified report to the public it's
+normally the same document the
+unclassified version the classified
+version are the same thing
+just the unclassified version has things
+blacked out or redacted that they say oh
+you're not allowed to know this sentence
+for this paragraph or this page or
+whatever the document that the public
+had been given about the warrantless
+wiretapping program was a completely
+different document it was a document
+tailor-made to deceive and mislead the
+Congress and the public of the United
+States and it was effective in doing
+that and in 2012 what I realized was
+this is what real-world conspiracies
+look like right it doesn't have to be
+smoking men behind closed doors right
+it's lawyers and politicians it's
+ordinary people from the working level
+to the management level
+who go if we don't explain this in a
+certain way we're all gonna lose our
+jobs or the other way they go we're
+gonna get something out of this if we
+all work together civilization is the
+history of conspiracy right what what is
+civilization but a conspiracy for all
+all of us to do better by working
+together right but it's this kind of
+thing that I think too often we forget
+because it's boring as hell I want all
+your listeners right to go to the
+Washington Post because this document
+that I discovered that that really
+changed me has been published courtesy
+of The Washington Post
+it's called the the inspector general's
+report on on stellar wind and you can
+look at the actual document that I saw
+that was unredacted right I had no
+blacked-out pages on mine and what I
+believe it shows is that some of the
+most senior officials in the United
+States elected and unelected worked
+together to actively undermine the
+rights of the American people to give
+themselves expanded powers now in their
+defense they said they were seeking
+these powers for a good and just and
+noble cause right they say they were
+trying to keep us safe but that's what
+they always say that's what every
+government says that's no different than
+what the Chinese government says or the
+Russian government says and the question
+is if they are truly keeping us safe why
+wouldn't they simply just tell us that
+well why wouldn't they have that debate
+in Congress why wouldn't they put that
+to a vote because if they were and they
+could convince us that they were they'd
+win the vote and particularly we all
+know like the Patriot Act passed more
+the worst pieces of legislation in
+modern history passed why didn't we get
+a vote and I think if you read the
+report the answer we clear so I'm sorry
+Joe I went on for various no is amazing
+it's act don't don't apologize at all
+it's just completely fascinating that
+the continuation of this policy came
+down to one man and the president having
+this discussion that is so well it's
+it's much it's much more much more but
+right right literally the president at
+the heart of it yes at the heart of it
+in every expression of executive power
+right and by executive we mean the White
+House here the CIA the NSA the FBI
+the DOJ right beat these guys exist as a
+part of the executive branch of
+government in a real way they work for
+the White House now there are laws and
+regulations and policies that are
+supposed to say they're supposed to do
+this and they're supposed to say they're
+not supposed to do that but when you
+look at federal regulations when you
+look at policies as an employee of
+government when you violate these
+policies the worst thing that happens to
+you is you lose your job because there's
+no criminal penalty for the violation of
+these laws and so it's very easy for
+people who exist in these structures
+particularly the very top levels of
+these structures to go look we have a
+given set of lawful authorities and
+these are defined very broadly to give
+us leeway to do whatever it is we think
+is proper and appropriate and just now
+take that proper inappropriate and just
+from the perspective of any given
+individual Ryan any given president now
+intersect that with what's good for them
+politically and that's where problems
+begin to arise now the safety measure
+that's supposed to protect us from this
+in the u.s. system in a democracy
+broadly is these people are supposed to
+be what are called public officials that
+means we know their decisions that means
+we know their policies that means we
+know their programs and prerogatives and
+powers like what they are doing both in
+our name and what they're doing against
+us and because they are transparent to
+us
+we the people can then police their
+activities we can go and disagree with
+this we can protest it
+we can't campaign against and write we
+can try to become the president do
+whatever they are public officials and
+we are private citizens they're not
+supposed to know anything about us right
+because we in relative terms hold no
+power and they hold all the power so
+they have to be under the tightest
+constraints we need to be in the freest
+circumstances and yet the rise of the
+state-secrets doctrine right this whole
+classification system that goes all the
+way back to last century about the
+middle of the last century I believe is
+is when it really started getting tested
+in court and I think you know more about
+this in many cases than I do when you
+start talking about what happened in the
+FBI and the CIA and the NSA is sort of
+old dirty work in the the 20th century
+is they abused their powers repeatedly
+and continuously they did active harm to
+domestic politics in the United States
+the FBI was spying on Martin Luther King
+and trying to get Martin Luther King to
+kill himself before the Nobel Prize was
+going to be awarded in fact after MLK
+gave his I have a dream speech two days
+later the FBI classified him is the
+greatest national or I think it was the
+greatest national security threat in the
+United States and yet this is the FBI
+this is the the group that everybody's
+applauding today saying all these these
+wonderful Patriots and heroes now I'm
+not saying everybody the FBI is bad
+I'm not saying anybody everybody the CIA
+and the NSA is bad I'm saying that you
+don't become patriot based on where you
+work
+patriotism is not about a loyalty to
+government patriotism in fact it's not
+about loyalty to anything patriotism is
+a constant effort to do good for the P
+of your country right it's not about the
+government it's not about the state and
+this is well we'll get into loyalty
+later because you know I think one of
+the big criticisms against me there
+should be talked about is um they go
+look this guy is disloyal he broke an
+oath he did whatever a loyalty loyalty
+is a good thing when it's in the service
+of something good but it is only good
+when it's in the service of something
+good if you're loyal to a bad person if
+you're loyal to a bad program if you're
+loyal to a bad government
+that loyalty is actively harmful and I
+think that's overlooked but yeah when
+you get back into this whole thing about
+sort of where it came from why it
+happened how it could come out of just
+this small group and then they could
+slowly kind of poison by implication by
+complicity by bringing them into the
+conspiracy and then having them not say
+anything about it a wider and wider
+broad a body of people and then once
+you've got enough people in on it it's
+much easier to convince other people
+that it's legitimate because they can go
+look we've got 30 people who know about
+this and none of them have objected to
+it why are you gonna object to this all
+of this derives from that original sin
+which is in a democracy creating a
+system of government that is in fact a
+secret government a body of secret law
+body of secret policy that is far beyond
+what legitimate government secrets could
+be this is not saying like government
+hasn't can have no secrecy at all if the
+government wants to investigate someone
+without having them respond right we're
+talking traditional law enforcement sure
+you're not gonna tell this mobster hey
+you know we're gonna start investigating
+you we the public don't need to know the
+names of every terrorist suspect out in
+the world right but we do need to know
+again the powers and programs the
+policies that a government is asserting
+at least the broad outlines of it
+because otherwise how can we control it
+how do we know if the government is a
+it's authorities that are supposed to be
+granted to it by us if we don't know
+what it is that they're doing and so
+this is the the main thing and really
+the story behind the title permanent
+record is look Joe when you were a kid
+you know when I was a kid when you were
+a teenager riling what's the worst thing
+you've ever said you know did you say
+anything you weren't proud did you do
+anything that you weren't proud of
+something that today in like the whoa
+kissed of Twitter land you would get in
+trouble for I'm sure and that's one of
+the horrible things about kids growing
+up today is that they do have all this
+stuff out there on social media forever
+and they can be judged horribly by
+something they did when they were 13
+it's exactly that our worst mistakes our
+deepest shames were forgotten right they
+were lost they were ephemeral even the
+things we did get caught for they were
+known for a time maybe they're still
+remembered by people who are closest to
+us whether we like them or dislike them
+but they were people connected to us now
+we're forced to live in a real way naked
+before power whether we're talking about
+Facebook whether we're talking about
+Google whether we're talking about the
+government of any country they know
+everything about us or much about us
+rather and we know very little about
+them and we're not allowed to know more
+everything that we do now lasts forever
+not because we want to remember but
+because we're not allowed to forget just
+carrying a phone in your pocket is
+enough for your movements to be
+memorialized because every cell phone
+tower that you pass is keeping a record
+of that and 18t keeps those records
+going back to 2008 under program called
+Hemisphere if you search for Hemisphere
+and AT&T you'll get a story in The Daily
+Beast about it 18 he keeps your phone
+records going back to 1983
+if any year listeners were born after
+1983 right born after me or it might be
+1987 excuse me 1987 if they're born
+after 1987 and they're 18 is he customer
+or their calls cross 18 days network
+ATMs he has every phone call they ever
+made rather the record that had happened
+not necessarily the contents on the
+phone call um and so I mean let me turn
+this around for you Joe cuz I feel like
+I've just been given a given of speech
+when you look at this stuff right when
+you look at what's happening with
+government when you look at what's
+happening with the Trump White House the
+Obama White House the Bush White House
+you could see this trend happening when
+you look at what's happening with
+Facebook when you look at what's
+happening with Google when you look the
+fact that you go to every restaurant
+today and you see people look at the
+phones you know you get on a bus you get
+on a subway you know you see somebody
+sitting next to you in traffic you see
+people looking at phones these devices
+are connected all the time now people
+are getting Alexa right now now people
+have okay Google they have you know Siri
+on their phones that are in their house
+they've always got these connected
+microphones where do you think this
+leads and what is it that gives you sort
+of trust in the system faith in the
+system like how just-just-just so we can
+start a conversation here what strikes
+you about this well it's completely
+alien and it's new this is something
+that's unprecedented we don't have a
+long human history of being completely
+connected via technology this is
+something we're navigating right now for
+the first time and it's probably the
+most powerful thing that the human race
+has ever seen in terms of the
+distribution of information there's
+nothing that even comes close to it in
+all of human history and we're figuring
+it out as we go along
+and what you exposed is that not only
+are we figuring out as we go along but
+that to cover their ass
+these cellphone companies in cahoots
+with the government have made it legal
+for them to gather up all of your phone
+calls all of your text messages all of
+your emails and store them somewhere so
+that retroactive Lee if you ever say
+anything they don't like or do something
+they don't like they can go back find
+that and use it against you and we don't
+know who they are we don't know why
+they're doing it and we didn't know they
+could do it until you exposed it the the
+connection of human beings via
+technology is is both amazing and
+powerful and incredible in terms of our
+access to knowledge but terrifying in
+terms of the government's ability to
+track our movements track your phone
+calls track everything and under the
+guise of protecting us from terrorists
+and protecting us from sleeper cells
+protecting us from attacks look if they
+really are attacked protecting us from
+these attacks that's great but there's
+there's no provision in the Constitution
+that allows any of this and this is
+where it gets really squirrely because
+they're making up the rules as they go
+along and they're making up these rules
+the way you're describing it this is
+step by step this has happened to sort
+of protect their ass and keep themselves
+from being implicated in what has been a
+violation of our rights and our
+privacy's and the Fourth Amendment yeah
+I mean I I think I think one of the
+things that everybody needs to
+understand when you look at these things
+and the reason you know we talked about
+before when I got this information why I
+didn't just put it on the internet and
+people criticize me for this they go I
+didn't share enough information because
+the journalists are gatekeeping right
+they've got a big archive and they
+haven't published everything from it and
+I told them not to publish everything
+why did you do that why did you do that
+because so again I get back to
+legitimate secrets an illegitimate
+secrets um some spying from my
+perspective you know career spy is okay
+right
+agreed if you have hacked a terrorists
+phone right and you're getting some
+information about that useful agreed
+yeah if you're spying on a Russian
+general in charge of a you know rocket
+division useful right but there there
+are lines and degrees in that where it's
+not useful now the examples that I just
+gave you these are
+targeted this is where you're spying on
+an individual there no named person that
+is being monitored for a specific reason
+that is related hopefully from a warrant
+people write well even for foreign
+intelligence and some indications you
+don't need a warrant
+strictly although I think they should
+have warrants for all of these
+investigations because they established
+a court for precisely this reason called
+the Foreign Intelligence Surveillance
+Court right yeah and there's not a judge
+in the world who wouldn't stamp a
+warrant saying hey spy on Abu jihad over
+here right and if you want to spy on
+another guy Boris badenov with the
+rocket division right that that's okay
+they're gonna go with that but then you
+look at these edge cases and in the
+archive that I provided to journalists
+that meant stories that have come down
+where they've spied on journalists right
+they've spied on human rights groups and
+these kind of things I think people miss
+I'm gonna throw up some slides here so
+forgive me if this gets weird and I put
+up the wrong ones but since I came
+forward this Foreign Intelligence
+Surveillance Court that the government
+says authorized these programs 15
+different times was overruled by the
+first open courts to look at the program
+these are federal courts here right that
+said no actually these programs are
+unlawful they're likely unconstitutional
+when you start looking at the facts you
+see even within the context of the very
+loose restrictions and laws that apply
+to the NSA and surveillance they say
+they broke their own laws you know two
+thousand seven hundred and seventy six
+times in a single year and then you
+asked about that thing that motivates me
+like why I came forward we had been
+trying as a country before I came
+forward to prove the existence of these
+programs legally because this is our
+this is our means of last sort of
+recourse in our system right we get the
+executive we got the legislature we got
+right so Congress makes the laws the
+executives supposed to carry them out
+the courts are supposed to play referee
+the executive had broken the laws
+Congress was turning a blind eye to the
+laws and the courts were and this is
+just months before I came forward going
+well it does appear that the ACLU and
+Amnesty International like all of these
+human rights groups and non-governmental
+organizations had established that you
+know these programs are likely unlawful
+they likely exist they're simply
+classified but the government responded
+with this argument that you just saw
+saying that well it's a state secret if
+they do exist you the plaintiffs don't
+have hard concrete evidence that they do
+exist and the government is saying
+legally you have no right to discover
+evidence from the government right
+documents demand documents or demand an
+answer from the government as to whether
+things these as to whether or not these
+things exist because the government's
+just gonna give its standard what they
+called Glomar response we can neither
+confirm nor deny that these things exist
+which leaves you out in the cold which
+leaves the courts out in the cold the
+courts go look the government could be
+breaking along here look they could be
+violating the Constitution here but
+because you can't prove it and because
+the government doesn't wanna play ball
+and the government says if we were doing
+this it would be legal and it would be
+necessary for national security or
+whatever the court can't presume to know
+national security better than the
+executive because the courts aren't
+elected and so this leads to this
+fundamentally broken system where okay
+if the only way to have the courts
+review the legality of the programs is
+to establish the programs exist but the
+programs are classified so you can't
+establish they exist unless you have
+evidence but providing that evidence to
+courts to journalists to anyone is a
+felony right that's punishable by 10
+years per count
+the Espionage Act and the government has
+charged every a source of Public
+Interest journalism who's really made a
+significant difference in these kind of
+cases since Daniel Ellsberg really going
+back to that under the same Espionage
+Act it's always the same law and this is
+there's no distinction to government
+between whether you've sold information
+to a foreign government for private
+benefit right or whether you provide an
+information only to journalists for the
+public interest and then that's a
+fundamentally harmful thing I think when
+you look at things that have come in the
+wake of this we're talking about the the
+post 2013 court rulings that found what
+the government was doing was unlawful
+you see the courts saying actually that
+leaks or air quotes leaks can actually
+be beneficial leak is used in the
+government's and this you know this is
+from a federal court these are not
+exactly my biggest supporters they are
+recognizing that although leak implies
+harm it implies something that's broken
+it's actually helpful it's a leak that's
+letting in daylight in this context that
+is the only thing that allows the system
+to operate in a context where one year
+before I came forward
+we had the NSA saying this kind of stuff
+didn't happen
+we had hang on this famous exchange
+which more than anything
+made me realize this was a point of no
+return because I've told you this you've
+heard this but if you haven't seen it
+you might not believe me right maybe I'm
+a sketchy guy whatever one of those
+senators I told you that objected to
+this stuff that was doing the lassie
+barks for all those years
+Ron Wyden was confronting the most
+senior spy in the United States a
+General James clapper who was then the
+Director of National Intelligence right
+there's no guy higher than him the buck
+stops with him when it comes to
+intelligence he's testifying under oath
+in front of Congress right but more
+broadly in front of the
+public this is televised and ron wyden
+asked him a very specific question about
+a program mind you that ron wyden knows
+exists because he has security clearance
+he sits on the Intelligence Committee
+and he knows there's domestic mass
+surveillance and this is how it goes
+this is how the top spy responds under
+oath so what I wanted to see is if you
+could give me a yes or no answer to the
+question does the NSA collect any type
+of data at all on millions or hundreds
+of millions of Americans no sir it does
+not
+not wittingly there are cases where they
+could inadvertently perhaps collect but
+not not wittingly so that was a lie
+Wyden knew it was a lie clapper knew it
+was a lie he actually admitted it was a
+lie after I came forward you know three
+months later but he said it was the
+least untruthful thing he could think of
+to say in the context of being in the
+hot seat there but what does it mean for
+a democracy when you can lie under oath
+to Congress and the congressman even
+knows you're lying to them but they're
+afraid to correct you and widened by the
+way it wasn't a surprise Wyden gave him
+those questions twenty-four hours in
+advance and he wrote a letter afterwards
+asking for clapper to amend his
+testimony right now not even at a press
+conference but just to say this was
+incorrect whatever so he could go
+through the legal process and show his
+fellow congressmen that there was a
+problem and they needed to do it but all
+of that was refused to us all of it was
+denied to us and Here I am sitting at
+the NSA next to my buddies who I've
+talked to about these programs you know
+I've gone look at this and they're
+laughing at it you know I'm laughing at
+it and it's not it's not that we go oh
+ha ha ha he's getting away with it it's
+like what are you gonna do these guys
+are you know they're they're
+bullshitters that the system is built
+online
+that even many people many experts who
+have studied this know are lies but if
+you can't prove their lies how do you
+move beyond that and that's really a
+question that has never been more
+relevant than I think it is today under
+the current White House so you're in
+this position where you have this
+information and you know that these
+surveillance systems are in place and
+they're unconstitutional and you feel
+this deep responsibility to let the
+American people know about this what
+what makes you take the leap so this is
+covered extensively in the book because
+it took a long time I would imagine
+people people you know yeah right
+exactly people like to think it's like a
+cinematic moment where I find this
+golden document like this stellar wind
+report and that's the closest thing to a
+smoking gun right that exists but look
+if you found that you you can read that
+later look at that and like imagine
+yourself being like oh I'm gonna go
+outside on the courthouse steps and wave
+this thing burn my life to the ground
+burn my family to the ground I'm never
+going to be work again I'm going to jail
+for the rest of my life the question is
+what would it take for you to light a
+match and burn your life to the ground
+too long the answer was nothing and I'm
+ashamed of that it took me so long to
+get over that home because I was waiting
+for somebody else to do it when I saw
+people like Ron Wyden on this when I saw
+people like the court case that I showed
+before where people were actively
+challenging these programs right
+journalists had the scent of it and you
+know there are a lot of people who are
+gonna be in the you knows of the YouTube
+comments or whatever go oh I knew this
+was happening no you didn't well Bill
+bimini you had he bill Binney he built
+built excuse me bill Binney he initially
+was the one that came out and spoke
+about
+this issue and so yeah bill Benny is a
+part of shall we say the group of early
+NSA whistleblowers who came with Thomas
+Drake bill Benny Kirk Wiebe I believe in
+Edie Loomis and these guys all got their
+doors kicked and you know they got
+harassed by the FBI Tom Drake who was a
+senior executive at the NSA this is a
+guy who had a lot to lose was charged
+under the same law was the Espionage Act
+and these guys were doing it earlier
+during the Bush administration some of
+them were talking to the journalists
+that in you know maybe it's alleged I
+don't want to put them on the spot maybe
+they deny it maybe they don't leave that
+to them but somebody somewhere was
+informing this reporting right that got
+into the New York Times about the Bush
+era warrantless wiretapping program and
+eventually journalists put this out
+there people knew these capabilities
+existed but yeah then there's the person
+in the YouTube comments so it's like oh
+we knew all about this is nothing new
+and the thing is you can know about some
+programs and not know about others you
+can have a suspicion you can know with a
+certainty that this stuff is capable or
+it is possible to capability exists you
+can know that the government has done
+this stuff in the past you can know they
+are likely to do it again you can have
+all these indications you can have like
+the jewel versus NSA case that's run by
+the e FF which is about the eighteen or
+it's about AT&T
+setting up secret rooms in their
+telecommunications facilities where they
+basically drag all the fibers for their
+domestic Internet communications and
+like phone communications into a room
+that's purpose-built for the NSA and
+then they bring it out but AT&T Nuys
+it's the NSA the NSA denies that these
+things happen or that are done at all
+right and so this is the context I you
+say you know and you know let's put it
+the other way maybe you do know right
+maybe you are an academic researcher
+maybe your technological specialist
+maybe you're just somebody who reads all
+the reporting and you actually know you
+can't prove it but you know this is
+going on but that's the thing in a
+democracy the distance
+between speculation and fact the
+distance between what you know and what
+you can prove to everybody else in the
+country is everything in our model of
+government because what you know doesn't
+matter what matters is what we all know
+and the only way we can all know it is
+if somebody can prove it if you can
+prove it and if you don't have the
+evidence you can't prove it and of
+course when we talk about the earlier
+stuff right like this or more
+corporatized media they've got a
+thousand incentives not to get involved
+in this stuff they need access to the
+White House they need these officials to
+sit down with them and give interviews
+right that's constant content that they
+need that's access that they need they
+need to be taken seriously they need to
+be a you know admitted to briefers it is
+a codependent relationship and yet
+rather and so the only way to make sure
+people understand this broadly is if we
+all work together all right
+if we collectively can establish a
+corpus of evidence right a body of facts
+that is so large and so persuasive it
+overcomes the natural and understandable
+resistance of these more corporatized
+media groups it overcomes the political
+and partisan sort of loyalties that that
+all of these political factions in the
+country do where they go you know it's
+it's my president even if I don't like
+this stuff even if I don't agree with
+this stuff I don't want to say it exists
+I want to deny it until it's proved you
+know in HD on video you know signing the
+order to do this that or the other
+because otherwise this is a chance my
+guy might not get reelected and that's
+the only way this kind of stuff can
+happen and the sad fact is the
+opportunities that we have to prove this
+like the the moments in history where we
+do prove something anything beyond a
+reasonable doubt are so few and so rare
+that they almost always only come from
+whistleblowers and I think that's
