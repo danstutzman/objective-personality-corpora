@@ -18,3 +18,9 @@
 - Set Import Location to Replace Current Sheet
 - Click Import Data
 - Add underlining to the first row
+
+## How to download new YouTube automatic transcripts:
+
+- `pip3 install youtube_transcript_api`
+- `python3 3-download-automatic-transcripts.py`
+  - This will download only transcripts that don't already have a .json file
